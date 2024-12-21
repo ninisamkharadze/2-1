@@ -1,0 +1,132 @@
+#logoimg {
+    max-width: 146.683px;
+    width: 100%;
+    max-height: 21.023px;
+    height: 100%;
+    padding: 13.5px;
+    vertical-align: middle;
+}
+
+#headerdiv {
+    max-width: 980px;
+    width: 100%;
+    padding: 12px 80px;
+}
+
+#navdiv {
+    display: inline;
+    vertical-align: middle;
+}
+
+#adiv {
+    display: inline;
+    
+}
+
+.adefaultnone {
+    text-decoration: none;
+}
+
+.amargins {
+    margin-right: 20px;
+}
+
+.afont {
+    font-size: 18px;
+    color: #323232;
+}
+
+#adivchild {
+    margin-left: 179.17px;
+}
+
+#adivlastchild {
+    margin-right: 179.17px;
+}
+
+#contactbutton {
+    font-size: 14px;
+    padding: 8px 16px;
+    max-width: 105px;
+    width: 100%;
+    max-height: 33px;
+    height: 100%;
+    color: #AC00FF;
+    background-color: #E9D7FE;
+    border-radius: 8px;
+    border: 1px solid #AC00FF;;
+}
+
+#maindiv {
+    margin-left: 214px;
+}
+
+#mainsfirstdiv {
+    max-width: 720px;
+    width: 100%;
+    max-height: 148px;
+    height: 100%;
+}
+
+#h1 {
+    font-size: 64px;
+    color: #323232;
+}
+
+#mainp {
+    font-size: 24px;
+    color: #323232;
+    vertical-align: middle;
+}
+
+.mainmargins {
+    margin-bottom: 24px;
+}
+
+#secondbuttonsdiv {
+   display: inline;
+}
+
+#button {
+    font-size: 18px;
+    padding: 16px 24px;
+    background-color: #5C3BAE;
+    color: #fff;
+    border-radius: 8px;
+    margin-right: 24px;
+    max-width: 204px;
+    width: 100%;
+    max-height: 54px;
+    height: 100%;
+}
+
+#littlelogodiv {
+    display: inline;
+    
+}
+
+#littlelogoimg {
+    max-width: 32px;
+    width: 100%;
+    max-height: 32px;
+    height: 100%;
+    vertical-align: middle;
+}
+
+#nexttologoa {
+    vertical-align: middle;
+}
+
+#lastdiv {
+    
+    margin-bottom: 40px;
+    max-width: 1311px;
+    width: 100%;
+    max-height: 761px;
+    height: 100%;
+    text-align: right;
+}
+
+
+
+
